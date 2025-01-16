@@ -1,0 +1,17 @@
+C:\Users\CLASSTIME\source\repos\Klinik\Klinik.BL\bin\Debug\net8.0\Klinik.BL.deps.json
+C:\Users\CLASSTIME\source\repos\Klinik\Klinik.BL\bin\Debug\net8.0\Klinik.BL.dll
+C:\Users\CLASSTIME\source\repos\Klinik\Klinik.BL\bin\Debug\net8.0\Klinik.BL.pdb
+C:\Users\CLASSTIME\source\repos\Klinik\Klinik.BL\bin\Debug\net8.0\Klinik.Core.dll
+C:\Users\CLASSTIME\source\repos\Klinik\Klinik.BL\bin\Debug\net8.0\Klinik.DL.dll
+C:\Users\CLASSTIME\source\repos\Klinik\Klinik.BL\bin\Debug\net8.0\Klinik.DL.pdb
+C:\Users\CLASSTIME\source\repos\Klinik\Klinik.BL\bin\Debug\net8.0\Klinik.Core.pdb
+C:\Users\CLASSTIME\source\repos\Klinik\Klinik.BL\obj\Debug\net8.0\Klinik.BL.csproj.AssemblyReference.cache
+C:\Users\CLASSTIME\source\repos\Klinik\Klinik.BL\obj\Debug\net8.0\Klinik.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CLASSTIME\source\repos\Klinik\Klinik.BL\obj\Debug\net8.0\Klinik.BL.AssemblyInfoInputs.cache
+C:\Users\CLASSTIME\source\repos\Klinik\Klinik.BL\obj\Debug\net8.0\Klinik.BL.AssemblyInfo.cs
+C:\Users\CLASSTIME\source\repos\Klinik\Klinik.BL\obj\Debug\net8.0\Klinik.BL.csproj.CoreCompileInputs.cache
+C:\Users\CLASSTIME\source\repos\Klinik\Klinik.BL\obj\Debug\net8.0\Klinik.BL.csproj.CopyComplete
+C:\Users\CLASSTIME\source\repos\Klinik\Klinik.BL\obj\Debug\net8.0\Klinik.BL.dll
+C:\Users\CLASSTIME\source\repos\Klinik\Klinik.BL\obj\Debug\net8.0\refint\Klinik.BL.dll
+C:\Users\CLASSTIME\source\repos\Klinik\Klinik.BL\obj\Debug\net8.0\Klinik.BL.pdb
+C:\Users\CLASSTIME\source\repos\Klinik\Klinik.BL\obj\Debug\net8.0\ref\Klinik.BL.dll
