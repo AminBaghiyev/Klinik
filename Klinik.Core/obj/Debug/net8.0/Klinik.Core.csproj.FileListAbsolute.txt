@@ -10,3 +10,16 @@ C:\Users\CLASSTIME\source\repos\Klinik\Klinik.Core\obj\Debug\net8.0\Klinik.Core.
 C:\Users\CLASSTIME\source\repos\Klinik\Klinik.Core\obj\Debug\net8.0\refint\Klinik.Core.dll
 C:\Users\CLASSTIME\source\repos\Klinik\Klinik.Core\obj\Debug\net8.0\Klinik.Core.pdb
 C:\Users\CLASSTIME\source\repos\Klinik\Klinik.Core\obj\Debug\net8.0\ref\Klinik.Core.dll
+C:\Users\USER\Desktop\AB205\Klinik\Klinik.Core\bin\Debug\net8.0\Klinik.Core.deps.json
+C:\Users\USER\Desktop\AB205\Klinik\Klinik.Core\bin\Debug\net8.0\Klinik.Core.dll
+C:\Users\USER\Desktop\AB205\Klinik\Klinik.Core\bin\Debug\net8.0\Klinik.Core.pdb
+C:\Users\USER\Desktop\AB205\Klinik\Klinik.Core\obj\Debug\net8.0\Klinik.Core.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\AB205\Klinik\Klinik.Core\obj\Debug\net8.0\Klinik.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\AB205\Klinik\Klinik.Core\obj\Debug\net8.0\Klinik.Core.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\AB205\Klinik\Klinik.Core\obj\Debug\net8.0\Klinik.Core.AssemblyInfo.cs
+C:\Users\USER\Desktop\AB205\Klinik\Klinik.Core\obj\Debug\net8.0\Klinik.Core.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\AB205\Klinik\Klinik.Core\obj\Debug\net8.0\Klinik.Core.sourcelink.json
+C:\Users\USER\Desktop\AB205\Klinik\Klinik.Core\obj\Debug\net8.0\Klinik.Core.dll
+C:\Users\USER\Desktop\AB205\Klinik\Klinik.Core\obj\Debug\net8.0\refint\Klinik.Core.dll
+C:\Users\USER\Desktop\AB205\Klinik\Klinik.Core\obj\Debug\net8.0\Klinik.Core.pdb
+C:\Users\USER\Desktop\AB205\Klinik\Klinik.Core\obj\Debug\net8.0\ref\Klinik.Core.dll

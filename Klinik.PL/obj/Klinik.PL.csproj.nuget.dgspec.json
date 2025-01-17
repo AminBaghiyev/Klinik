@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CLASSTIME\\source\\repos\\Klinik\\Klinik.PL\\Klinik.PL.csproj": {}
+    "C:\\Users\\USER\\Desktop\\AB205\\Klinik\\Klinik.PL\\Klinik.PL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CLASSTIME\\source\\repos\\Klinik\\Klinik.BL\\Klinik.BL.csproj": {
+    "C:\\Users\\USER\\Desktop\\AB205\\Klinik\\Klinik.BL\\Klinik.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CLASSTIME\\source\\repos\\Klinik\\Klinik.BL\\Klinik.BL.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\AB205\\Klinik\\Klinik.BL\\Klinik.BL.csproj",
         "projectName": "Klinik.BL",
-        "projectPath": "C:\\Users\\CLASSTIME\\source\\repos\\Klinik\\Klinik.BL\\Klinik.BL.csproj",
-        "packagesPath": "C:\\Users\\CLASSTIME\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CLASSTIME\\source\\repos\\Klinik\\Klinik.BL\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Desktop\\AB205\\Klinik\\Klinik.BL\\Klinik.BL.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\AB205\\Klinik\\Klinik.BL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\CLASSTIME\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\CLASSTIME\\source\\repos\\Klinik\\Klinik.DL\\Klinik.DL.csproj": {
-                "projectPath": "C:\\Users\\CLASSTIME\\source\\repos\\Klinik\\Klinik.DL\\Klinik.DL.csproj"
+              "C:\\Users\\USER\\Desktop\\AB205\\Klinik\\Klinik.DL\\Klinik.DL.csproj": {
+                "projectPath": "C:\\Users\\USER\\Desktop\\AB205\\Klinik\\Klinik.DL\\Klinik.DL.csproj"
               }
             }
           }
@@ -42,7 +42,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -81,24 +87,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\CLASSTIME\\source\\repos\\Klinik\\Klinik.Core\\Klinik.Core.csproj": {
+    "C:\\Users\\USER\\Desktop\\AB205\\Klinik\\Klinik.Core\\Klinik.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CLASSTIME\\source\\repos\\Klinik\\Klinik.Core\\Klinik.Core.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\AB205\\Klinik\\Klinik.Core\\Klinik.Core.csproj",
         "projectName": "Klinik.Core",
-        "projectPath": "C:\\Users\\CLASSTIME\\source\\repos\\Klinik\\Klinik.Core\\Klinik.Core.csproj",
-        "packagesPath": "C:\\Users\\CLASSTIME\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CLASSTIME\\source\\repos\\Klinik\\Klinik.Core\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Desktop\\AB205\\Klinik\\Klinik.Core\\Klinik.Core.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\AB205\\Klinik\\Klinik.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\CLASSTIME\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -119,7 +125,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -150,24 +162,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\CLASSTIME\\source\\repos\\Klinik\\Klinik.DL\\Klinik.DL.csproj": {
+    "C:\\Users\\USER\\Desktop\\AB205\\Klinik\\Klinik.DL\\Klinik.DL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CLASSTIME\\source\\repos\\Klinik\\Klinik.DL\\Klinik.DL.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\AB205\\Klinik\\Klinik.DL\\Klinik.DL.csproj",
         "projectName": "Klinik.DL",
-        "projectPath": "C:\\Users\\CLASSTIME\\source\\repos\\Klinik\\Klinik.DL\\Klinik.DL.csproj",
-        "packagesPath": "C:\\Users\\CLASSTIME\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CLASSTIME\\source\\repos\\Klinik\\Klinik.DL\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Desktop\\AB205\\Klinik\\Klinik.DL\\Klinik.DL.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\AB205\\Klinik\\Klinik.DL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\CLASSTIME\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -182,8 +194,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\CLASSTIME\\source\\repos\\Klinik\\Klinik.Core\\Klinik.Core.csproj": {
-                "projectPath": "C:\\Users\\CLASSTIME\\source\\repos\\Klinik\\Klinik.Core\\Klinik.Core.csproj"
+              "C:\\Users\\USER\\Desktop\\AB205\\Klinik\\Klinik.Core\\Klinik.Core.csproj": {
+                "projectPath": "C:\\Users\\USER\\Desktop\\AB205\\Klinik\\Klinik.Core\\Klinik.Core.csproj"
               }
             }
           }
@@ -192,7 +204,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -229,24 +247,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\CLASSTIME\\source\\repos\\Klinik\\Klinik.PL\\Klinik.PL.csproj": {
+    "C:\\Users\\USER\\Desktop\\AB205\\Klinik\\Klinik.PL\\Klinik.PL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CLASSTIME\\source\\repos\\Klinik\\Klinik.PL\\Klinik.PL.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\AB205\\Klinik\\Klinik.PL\\Klinik.PL.csproj",
         "projectName": "Klinik.PL",
-        "projectPath": "C:\\Users\\CLASSTIME\\source\\repos\\Klinik\\Klinik.PL\\Klinik.PL.csproj",
-        "packagesPath": "C:\\Users\\CLASSTIME\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CLASSTIME\\source\\repos\\Klinik\\Klinik.PL\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Desktop\\AB205\\Klinik\\Klinik.PL\\Klinik.PL.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\AB205\\Klinik\\Klinik.PL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\CLASSTIME\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -261,8 +279,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\CLASSTIME\\source\\repos\\Klinik\\Klinik.BL\\Klinik.BL.csproj": {
-                "projectPath": "C:\\Users\\CLASSTIME\\source\\repos\\Klinik\\Klinik.BL\\Klinik.BL.csproj"
+              "C:\\Users\\USER\\Desktop\\AB205\\Klinik\\Klinik.BL\\Klinik.BL.csproj": {
+                "projectPath": "C:\\Users\\USER\\Desktop\\AB205\\Klinik\\Klinik.BL\\Klinik.BL.csproj"
               }
             }
           }
@@ -271,7 +289,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -315,7 +339,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

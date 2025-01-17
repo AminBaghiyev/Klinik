@@ -1,5 +1,4 @@
-﻿using FluentValidation;
-using FluentValidation.AspNetCore;
+﻿using FluentValidation.AspNetCore;
 using Klinik.BL.Services.Abstractions;
 using Klinik.BL.Services.Concretes;
 using Microsoft.Extensions.DependencyInjection;
@@ -13,10 +12,10 @@ public static class ConfigurationServices
     {
         services.AddAutoMapper(Assembly.GetExecutingAssembly());
 
-        services.AddValidatorsFromAssembly(Assembly.GetExecutingAssembly());
-        services.AddFluentValidationAutoValidation();
-        services.AddFluentValidationClientsideAdapters();
+        services.AddFluentValidation(fv => fv.RegisterValidatorsFromAssembly(Assembly.GetExecutingAssembly()));
 
         services.AddScoped<IAccountService, AccountService>();
+        services.AddScoped<IDepartmentService, DepartmentService>();
+        services.AddScoped<IDoctorService, DoctorService>();
     }
 }

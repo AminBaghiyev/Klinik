@@ -1,0 +1,18 @@
+﻿@model DepartmentCreateDTO
+
+<form asp-action="Create" class="container" method="POST">
+    <h2 class="my-4">Create Department</h2>
+    <div class="mb-3">
+        <label class="form-label" asp-for="Title"></label>
+        <input class="form-control" asp-for="Title" />
+        <span class="text-danger" asp-validation-for="Title"></span>
+    </div>
+    <div class="mb-3">
+        <label class="form-label" asp-for="Description"></label>
+        <input class="form-control" asp-for="Description" />
+        <span class="text-danger" asp-validation-for="Description"></span>
+    </div>
+    <p class="text-danger text-center">@Html.ValidationMessage("CustomError")</p>
+
+    <button type="submit" class="btn btn-primary">Save Changes</button>
+</form>

@@ -17,7 +17,7 @@ public class Repository<T> : IRepository<T> where T : BaseEntity, new()
 
     public DbSet<T> Table => _context.Set<T>();
 
-    public async Task<ICollection<T>> GetAllAsync(Expression<Func<T, bool>>? expression = null, int page = 0, int count = 5, bool orderAsc = true, params string[] includes)
+    public async Task<ICollection<T>> GetAllAsync(Expression<Func<T, bool>>? expression = null, int count = 3, bool orderAsc = true, params string[] includes)
     {
         IQueryable<T> query = Table.AsQueryable().AsNoTracking();
 
@@ -31,7 +31,7 @@ public class Repository<T> : IRepository<T> where T : BaseEntity, new()
 
         if (expression is not null) query = query.Where(expression);
 
-        if (count > 0) query = query.Skip(page * count).Take(count);
+        if (count > 0) query = query.Take(count);
 
         query = orderAsc ? query.OrderBy(x => x.Id) : query.OrderByDescending(x => x.Id);
 

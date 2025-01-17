@@ -94,6 +94,10 @@ namespace Klinik.DL.Migrations
                         .HasMaxLength(50)
                         .HasColumnType("nvarchar(50)");
 
+                    b.Property<string>("ThumbnailPath")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("TwitterURL")
                         .HasMaxLength(500)
                         .HasColumnType("nvarchar(500)");
@@ -246,13 +250,13 @@ namespace Klinik.DL.Migrations
                         {
                             Id = "e421f4b8-f69c-4afa-90d8-ecc43086ffb9",
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "7ac9e4fa-0fb1-460c-971d-bf3f30249b62",
+                            ConcurrencyStamp = "d00f7d77-a61d-4202-a4c2-803f8364d04e",
                             EmailConfirmed = false,
                             LockoutEnabled = false,
                             NormalizedUserName = "ADMIN",
-                            PasswordHash = "AQAAAAIAAYagAAAAEN1Ps7I/ouA0W/uuCKpXzKaE5rAATRBE+93OstJO82vE5lSOxb+Of1Ba1mLM/z+b+w==",
+                            PasswordHash = "AQAAAAIAAYagAAAAEDAc8NPtza7bqx2Cm+uH2I4/ymF8aYEViqJQpM/ukAt+Ft/vYalmaDUSvDa/W352wA==",
                             PhoneNumberConfirmed = false,
-                            SecurityStamp = "607d3838-048f-4530-a035-2727133f1a8c",
+                            SecurityStamp = "9b19a4db-be3f-423f-b88e-98119e1e5d1b",
                             TwoFactorEnabled = false,
                             UserName = "admin"
                         });
